@@ -1,0 +1,83 @@
+2021-01-25 14:09:16 INFO open: "None"
+2021-01-25 14:09:22 INFO click: ('xpath', "//a[@href='/login']")
+2021-01-25 14:09:22 INFO find element: ('xpath', "//a[@href='/login']"), timeout: 5 sec.
+2021-01-25 14:09:28 INFO type text: ('name', 'login')
+2021-01-25 14:09:28 INFO find element: ('name', 'login'), timeout: 5 sec.
+2021-01-25 14:09:29 INFO type text: ('name', 'password')
+2021-01-25 14:09:29 INFO find element: ('name', 'password'), timeout: 5 sec.
+2021-01-25 14:09:30 INFO submit: ('xpath', '//form')
+2021-01-25 14:09:30 INFO find element: ('xpath', '//form'), timeout: 5 sec.
+2021-01-25 14:09:33 INFO wait for: XpathExists("//div[@id='dashboard']")
+2021-01-25 14:09:42 INFO open: "None"
+2021-01-25 14:09:49 INFO click: ('xpath', "//a[@href='/login']")
+2021-01-25 14:09:49 INFO find element: ('xpath', "//a[@href='/login']"), timeout: 5 sec.
+2021-01-25 14:09:52 INFO type text: ('name', 'login')
+2021-01-25 14:09:52 INFO find element: ('name', 'login'), timeout: 5 sec.
+2021-01-25 14:09:53 INFO type text: ('name', 'password')
+2021-01-25 14:09:53 INFO find element: ('name', 'password'), timeout: 5 sec.
+2021-01-25 14:09:55 INFO submit: ('xpath', '//form')
+2021-01-25 14:09:55 INFO find element: ('xpath', '//form'), timeout: 5 sec.
+2021-01-25 14:10:03 INFO wait for: XpathExists("//div[@id='dashboard']")
+2021-01-25 14:10:04 INFO open: "None"
+2021-01-25 14:10:05 INFO type text: ('name', 'repository[name]')
+2021-01-25 14:10:05 INFO find element: ('name', 'repository[name]'), timeout: 5 sec.
+2021-01-25 14:10:06 INFO click: ('id', 'repository_visibility_public')
+2021-01-25 14:10:06 INFO find element: ('id', 'repository_visibility_public'), timeout: 5 sec.
+2021-01-25 14:10:07 INFO click: ('id', 'repository_license_template_toggle')
+2021-01-25 14:10:07 INFO find element: ('id', 'repository_license_template_toggle'), timeout: 5 sec.
+2021-01-25 14:10:08 INFO click: ('xpath', "//summary[@role='button']//span[contains(., 'License')]")
+2021-01-25 14:10:08 INFO find element: ('xpath', "//summary[@role='button']//span[contains(., 'License')]"), timeout: 5 sec.
+2021-01-25 14:10:10 INFO click: ('xpath', "//div[@aria-label='License']//label[contains(., 'MIT License')]")
+2021-01-25 14:10:10 INFO find element: ('xpath', "//div[@aria-label='License']//label[contains(., 'MIT License')]"), timeout: 5 sec.
+2021-01-25 14:10:11 INFO click: ('xpath', "//div[@class='js-with-permission-fields']//button[@type='submit']")
+2021-01-25 14:10:11 INFO find element: ('xpath', "//div[@class='js-with-permission-fields']//button[@type='submit']"), timeout: 5 sec.
+2021-01-25 14:10:25 INFO open: "None"
+2021-01-25 14:10:42 INFO click: ('xpath', "//a[@href='/login']")
+2021-01-25 14:10:42 INFO find element: ('xpath', "//a[@href='/login']"), timeout: 5 sec.
+2021-01-25 14:10:44 INFO type text: ('name', 'login')
+2021-01-25 14:10:44 INFO find element: ('name', 'login'), timeout: 5 sec.
+2021-01-25 14:10:45 INFO type text: ('name', 'password')
+2021-01-25 14:10:45 INFO find element: ('name', 'password'), timeout: 5 sec.
+2021-01-25 14:10:46 INFO submit: ('xpath', '//form')
+2021-01-25 14:10:46 INFO find element: ('xpath', '//form'), timeout: 5 sec.
+2021-01-25 14:10:49 INFO wait for: XpathExists("//div[@id='dashboard']")
+2021-01-25 14:10:50 INFO open: "https://github.com/jtesterk/TEST__check/issues/new"
+2021-01-25 14:10:51 INFO type text: ('name', 'issue[title]')
+2021-01-25 14:10:51 INFO find element: ('name', 'issue[title]'), timeout: 5 sec.
+2021-01-25 14:10:52 INFO type text: ('name', 'issue[body]')
+2021-01-25 14:10:52 INFO find element: ('name', 'issue[body]'), timeout: 5 sec.
+2021-01-25 14:10:53 INFO click: ('xpath', '//button[@class="btn btn-primary" and contains(.,"Submit new issue")]')
+2021-01-25 14:10:53 INFO find element: ('xpath', '//button[@class="btn btn-primary" and contains(.,"Submit new issue")]'), timeout: 5 sec.
+2021-01-25 14:11:05 INFO open: "None"
+2021-01-25 14:11:16 INFO click: ('xpath', "//a[@href='/login']")
+2021-01-25 14:11:16 INFO find element: ('xpath', "//a[@href='/login']"), timeout: 5 sec.
+2021-01-25 14:11:19 INFO type text: ('name', 'login')
+2021-01-25 14:11:19 INFO find element: ('name', 'login'), timeout: 5 sec.
+2021-01-25 14:11:20 INFO type text: ('name', 'password')
+2021-01-25 14:11:20 INFO find element: ('name', 'password'), timeout: 5 sec.
+2021-01-25 14:11:21 INFO submit: ('xpath', '//form')
+2021-01-25 14:11:21 INFO find element: ('xpath', '//form'), timeout: 5 sec.
+2021-01-25 14:11:23 INFO wait for: XpathExists("//div[@id='dashboard']")
+2021-01-25 14:11:24 INFO open: "https://github.com/jtesterk/TEST__check"
+2021-01-25 14:11:26 INFO click: ('id', 'branch-select-menu')
+2021-01-25 14:11:26 INFO find element: ('id', 'branch-select-menu'), timeout: 5 sec.
+2021-01-25 14:11:27 INFO type text: ('id', 'context-commitish-filter-field')
+2021-01-25 14:11:27 INFO find element: ('id', 'context-commitish-filter-field'), timeout: 5 sec.
+2021-01-25 14:11:29 INFO wait for: XpathExists("//span[contains(.,'Create branch')]")
+2021-01-25 14:11:30 INFO click: ('xpath', "//span[contains(.,'Create branch')]")
+2021-01-25 14:11:30 INFO find element: ('xpath', "//span[contains(.,'Create branch')]"), timeout: 5 sec.
+2021-01-25 14:11:40 INFO open: "None"
+2021-01-25 14:12:00 INFO click: ('xpath', "//a[@href='/login']")
+2021-01-25 14:12:00 INFO find element: ('xpath', "//a[@href='/login']"), timeout: 5 sec.
+2021-01-25 14:12:01 INFO type text: ('name', 'login')
+2021-01-25 14:12:01 INFO find element: ('name', 'login'), timeout: 5 sec.
+2021-01-25 14:12:03 INFO type text: ('name', 'password')
+2021-01-25 14:12:03 INFO find element: ('name', 'password'), timeout: 5 sec.
+2021-01-25 14:12:04 INFO submit: ('xpath', '//form')
+2021-01-25 14:12:04 INFO find element: ('xpath', '//form'), timeout: 5 sec.
+2021-01-25 14:12:07 INFO wait for: XpathExists("//div[@id='dashboard']")
+2021-01-25 14:12:08 INFO open: "https://github.com/jtesterk/TEST__check/new/test-branch-25157c52-d645-45d5-92dd-e41156d6017f"
+2021-01-25 14:12:09 INFO type text: ('name', 'filename')
+2021-01-25 14:12:09 INFO find element: ('name', 'filename'), timeout: 5 sec.
+2021-01-25 14:12:10 INFO click: ('id', 'submit-file')
+2021-01-25 14:12:10 INFO find element: ('id', 'submit-file'), timeout: 5 sec.

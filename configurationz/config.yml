@@ -1,0 +1,8 @@
+browser: chrome
+browser_version: 83.0
+wd_hub_url: null
+headless: false
+action_framework:
+  wait_between_actions_sec: 1
+  timeout_find_element_sec: 5
+  timeout_wait_for_condition_sec: 15
